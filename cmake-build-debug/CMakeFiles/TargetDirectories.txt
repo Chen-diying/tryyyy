@@ -1,3 +1,0 @@
-E:/CLion/c_file/JinZhi_Change/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/CLion/c_file/JinZhi_Change/cmake-build-debug/CMakeFiles/JinZhi_Change.dir
-E:/CLion/c_file/JinZhi_Change/cmake-build-debug/CMakeFiles/rebuild_cache.dir

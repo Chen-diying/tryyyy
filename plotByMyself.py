@@ -52,3 +52,5 @@ explode = (0.05, 0.05, 0.05, 0.05)  # 这个是控制分离的距离的，默认
 plt.title('月销量比重')
 plt.pie(weight, labels=labels, explode=explode, startangle=60, autopct='%1.1f%%')  # qutopct在图中显示比例值，注意值的格式。startangle:起始绘制角度,默认图是从x轴正方向逆时针画起,如设定=90则从y轴正方向画起；
 plt.show()
+
+//The file is modified by Geng-long.
